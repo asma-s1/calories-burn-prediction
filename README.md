@@ -60,10 +60,11 @@ pip install numpy pandas matplotlib seaborn scikit-learn xgboost streamlit
 4. Run all cells
 
 ## Project Structure
-
+```
 calories-burn-prediction/
 ├── calories_burn_prediction.ipynb
 ├── app.py
 ├── model.pkl
 ├── requirements.txt
 └── README.md
+```
