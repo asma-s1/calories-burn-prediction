@@ -66,5 +66,4 @@ calories-burn-prediction/
 ├── app.py
 ├── model.pkl
 ├── requirements.txt
-├── README.md
-└── (exercise.csv + calories.csv) — download separately
+└── README.md
