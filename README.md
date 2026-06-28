@@ -49,9 +49,9 @@ Try the app: https://calories-burn-prediction-kegtltzv3puxwgcbfez4nq.streamlit.a
 ![Demo](Demo.png)
 
 ## Requirements
-
+```bash
 pip install numpy pandas matplotlib seaborn scikit-learn xgboost streamlit
-
+```
 ## How to Run
 
 1. Download the dataset from Kaggle (link above)
