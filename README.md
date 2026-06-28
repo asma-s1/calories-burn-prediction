@@ -14,7 +14,6 @@ People are increasingly focused on managing their health and fitness goals. Accu
 - Features used: Duration, Heart_Rate, Body_Temp
 - Target: Calories
 
-Dataset files are not included in this repository. Download them from the link above and place them in the root directory.
 
 ## Exploratory Data Analysis
 
